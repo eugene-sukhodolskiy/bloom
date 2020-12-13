@@ -1,0 +1,23 @@
+{
+    "name": "Bloom Project",
+    "ver": "1.0",
+    "author": "E. Sukhodolskiy",
+    "tags": [
+        "php",
+        "web panel",
+        "info panel",
+        "fury",
+        "framework",
+        "js",
+        "html",
+        "css"
+    ],
+    "type": "web",
+    "main_lang": "php",
+    "status": "open",
+    "project_color": "#1AACDB",
+    "git_url": "https://github.com/eugene-sukhodolskiy/bloom",
+    "release_url": null,
+    "favicon": null,
+    "description": "Info panel first"
+}

@@ -17,5 +17,9 @@ return [
 	"logs_enable" => true,
 	"logs_folder" => "Bloom/Logs",
 
-	"controllers_folder" => "Controllers"
+	"controllers_folder" => "Controllers",
+
+	"local_net" => [
+		"output_file" => "/home/eugene/projects/bloom/local-net/online-list.json"
+	]
 ]; 

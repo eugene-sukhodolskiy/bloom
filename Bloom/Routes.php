@@ -38,7 +38,7 @@ class Routes{
 	}
 
 	protected function uri_routes(){
-		$this -> router -> uri('/', "{$this -> cn}\\Welcome@index");
+		$this -> router -> uri('/', "{$this -> cn}\\Index@home");
 	}
 
 	protected function get_routes(){
